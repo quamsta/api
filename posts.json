@@ -1,4 +1,12 @@
 {
-"posts":[  
-    {"title":"Hi", "content":"Hi."},  
-]}  
+    "posts": [
+        {
+            "title": "Bye",
+            "content": "Bye."
+        },
+        {
+            "title": "Hi",
+            "content": "Hi."
+        },
+    ]
+}
